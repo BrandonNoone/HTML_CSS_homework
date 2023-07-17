@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    font-family: Arial, sans-serif;
+    display: flexbox;
+    background-color: black;
+    color: white;
+    padding-left: 5%;
+    padding-top: 1%;
+
+}
+
+.end-items-header{
+    display: flex;
+    color: white;
+    justify-content: flex-end;
+    align-items: start;
+    list-style: none;
+}
+
+.first_section_blue {
+    font-family: arial, sans-serif;
+    display: flex;
+    background-color: #247ebb;
+    color: white;
+    gap: 20px;
+    flex-direction: column;
+    padding-left: 10%;
+
+}
